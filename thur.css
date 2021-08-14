@@ -1,0 +1,119 @@
+@charset "uft-8";
+
+#p1{
+    text-align: right;
+    word-spacing: 10px;
+    margin-right: 30px;
+}
+#img1{
+    vertical-align: middle;
+}
+#img2{
+    margin-top: 120px;
+    margin-left: 550px;
+}
+#table1{
+  width: 700px;
+  height: 40px;
+  border-radius: 20px;
+  overflow: hidden;
+  border-collapse: collapse;
+  box-shadow:0px 0px 4px grey;
+  margin: auto;
+}
+#img3{
+    padding-left: 20px;
+    padding-top: 5px;
+    border:hidden;
+    overflow: hidden;
+}
+#dong1{
+    width: 600px;
+    height: 40px;
+    border: hidden;
+    border-left: 10px;
+    outline: none;
+    overflow: hidden;
+    padding-left: 20px;
+}
+#p1{
+    border: hidden;
+}
+#p2{
+    border: hidden;
+}
+#a1{
+    width: 10px;
+    height: 20px;
+}
+#img4{
+    padding-right: 15px;
+    padding-top: 5px;
+}
+#a1{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: gainsboro;
+    border: hidden;
+}
+#img5{
+    padding-left: 5px;
+}
+#table2{
+    margin: auto;
+    border: hidden;
+}
+#a2{
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: gainsboro;
+    border: hidden;
+    font-size: 25px;
+    font-weight: bold;
+}
+#b1{
+    width: 80px;
+    border: hidden;
+}
+#table3{
+    margin: auto;
+}
+#b2{
+    width: 50px;
+}
+#a3{
+    padding-left: 25px;
+}
+#a4{
+    padding-right: 23px;
+}
+#table4{
+   margin-top: 70px;
+   margin-left: 1150px;
+   border-collapse: collapse;
+   border-radius: 15px;
+   overflow: hidden;
+   border: solid 3px gainsboro;
+   box-shadow: 0px 0px 5px grey;
+}
+#submit{
+    border: hidden;
+    color:rgb(80, 80, 177);
+    background-color: white;
+}
+#a6{
+    width: 30px;
+    border: hidden;
+}
+#img6{
+    border-bottom: 5px;
+    border-left: 3px;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+#a7{
+    border: hidden;
+}
